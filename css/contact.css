@@ -1,0 +1,27 @@
+﻿/* DEVELOPER David Felix, IS117-006, Spring 2022 */
+
+main{
+    padding-top: 6em;
+    float: left;
+    bottom: unset;
+}
+.container {
+    padding: 3em 2em;
+    font-family: "Merriweather-Regular", "Merriweather", sans-serif;
+}
+
+    .container .form-group {
+        padding: 0.5em 0;
+    }
+
+    .container .form-check-label {
+        padding: 0.5em 2em;
+    }
+
+form button {
+    background-color: rgba(145, 239, 250, 0.4) !important;
+    color: black !important;
+    border-block-color: #333333 !important;
+    float: right;
+    clear: both;
+}

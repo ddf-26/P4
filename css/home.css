@@ -1,0 +1,34 @@
+﻿/* DEVELOPER David Felix, IS117-006, Spring 2022 */
+
+main{
+    padding-top: 6em;
+    float: left;
+    bottom: unset;
+}
+.container {
+    padding: 3em 2em;
+    font-family: "Merriweather-Regular", "Merriweather", sans-serif;
+}
+
+.bg-primary {
+    color: black !important;
+    background-color: lightgray !important;
+    margin-bottom: 1em;
+}
+.bg-primary img{
+    padding-left: 1em;
+    padding-bottom: 0.5em;
+    width: 200px;
+    height: 300px;
+}
+.card{
+    border-block-style: solid;
+    border-block-width: 2px;
+    border-radius: 10px;
+    text-align: center;
+}
+.card-text{
+    padding-bottom: 1em;
+}
+
+

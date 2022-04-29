@@ -1,0 +1,26 @@
+﻿/* DEVELOPER David Felix, IS117-006, Spring 2022 */
+
+main{
+    padding-top: 6em;
+    float: left;
+}
+
+main h3{
+    font-size: 1.2em;
+}
+
+.container {
+    padding: 3em 2em;
+    font-family: "Merriweather-Regular", "Merriweather", sans-serif;
+}
+
+main .season{
+    padding-left: 2em;
+    list-style: circle;
+}
+img{
+    margin: 0 auto;
+    width: 400px !important;
+    height: 220px;
+    margin-bottom: 3em;
+}
